@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background: #2B3138;
+    color: white;
+    text-align: center;
+}
+
+.pass {
+    display: inline-block;
+    height: 10vh;
+    width: 20vw;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    background: #49525B;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background: #479660; 
+}
