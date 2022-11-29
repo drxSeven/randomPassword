@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: #2B3138;
+    background: #122536;
     color: white;
     text-align: center;
 }
@@ -20,5 +20,10 @@ button {
     border: none;
     border-radius: 5px;
     color: white;
-    background: #479660; 
+    background: #D12C58; 
+    transition:  .15s;
+}
+
+button:hover{
+    padding: 15px;
 }
